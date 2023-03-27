@@ -1,4 +1,4 @@
 # Demo-Projects-
-# Going to add some small projects in it realted to javascript 
+#Some basic javascript project
 # Temperature conversion  project 
 # Number guessing game 
