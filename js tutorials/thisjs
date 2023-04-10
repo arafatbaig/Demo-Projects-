@@ -1,0 +1,22 @@
+const car1 = {
+    model:"Ferrari",
+    color:"Red ",
+    year:"2023",
+
+    drive : function(){
+        console.log(`You are rding the best car ${this.model}`);
+    }
+ }
+
+ const car2 = {
+    model:"Supra ",
+    color:"Black",
+    year:"2022",
+
+    drive:function(){
+        console.log(`The best diftring car${this.color}`);
+    }
+ }
+
+ car1.drive();
+ car2.drive();
