@@ -7,3 +7,4 @@
 #52. this // reference to a particular object // the object depends on the immediate context
 #53. class // a blueprint for creating objects define what properties and methods they have use a constructor for unique properties
 #54. Constructor // A special method of a class,accepts arguments and assigns properties 
+#55. Static // belongs to the class, not the objects, properties: useful for caches,fixed-configuration ,methods: useful for utility function
