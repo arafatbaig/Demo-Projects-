@@ -9,3 +9,12 @@
 #54. Constructor // A special method of a class,accepts arguments and assigns properties 
 #55. Static // belongs to the class, not the objects, properties: useful for caches,fixed-configuration ,methods: useful for utility function
 #56. Inhertiance // A child class can inherit all the methods and properties from another class 
+#67 synchronous code = In an ordered sequence.
+//                                      Step-by-step linear instructions
+//                                     (start now, finish now)
+ 
+// asynchronous code = Out of sequence.
+//                     Ex. Access a database
+//                            Fetch a file
+//                            Tasks that take time
+//                     (start now, finish sometime later)
