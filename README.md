@@ -3,6 +3,8 @@
 # Temperature conversion  project 
 # Number guessing game
 # Javascript tutorial 
+#1.// A variable is a container for storing data
+// A variable behaves as if it was the value that it contains
 #51. Map //  object that holds key-value pairs of any data type
 #52. this // reference to a particular object // the object depends on the immediate context
 #53. class // a blueprint for creating objects define what properties and methods they have use a constructor for unique properties
